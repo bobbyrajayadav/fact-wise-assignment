@@ -1,0 +1,222 @@
+export const employees = [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@company.com",
+      "department": "Engineering",
+      "position": "Senior Developer",
+      "salary": 95000,
+      "hireDate": "2021-03-15",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "email": "emily.davis@company.com",
+      "department": "Marketing",
+      "position": "Marketing Manager",
+      "salary": 78000,
+      "hireDate": "2020-07-22",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael.brown@company.com",
+      "department": "Marketing",
+      "position": "VP Marketing",
+      "salary": 125000,
+      "hireDate": "2019-01-10",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "firstName": "Sarah",
+      "lastName": "Johnson",
+      "email": "sarah.johnson@company.com",
+      "department": "Engineering",
+      "position": "Engineering Manager",
+      "salary": 115000,
+      "hireDate": "2018-11-05",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@company.com",
+      "department": "Engineering",
+      "position": "CTO",
+      "salary": 180000,
+      "hireDate": "2017-05-12",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "firstName": "Lisa",
+      "lastName": "Garcia",
+      "email": "lisa.garcia@company.com",
+      "department": "Sales",
+      "position": "Sales Representative",
+      "salary": 65000,
+      "hireDate": "2022-02-28",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "firstName": "Robert",
+      "lastName": "Martinez",
+      "email": "robert.martinez@company.com",
+      "department": "Sales",
+      "position": "Sales Manager",
+      "salary": 92000,
+      "hireDate": "2020-09-14",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "firstName": "Jennifer",
+      "lastName": "Lee",
+      "email": "jennifer.lee@company.com",
+      "department": "Sales",
+      "position": "VP Sales",
+      "salary": 135000,
+      "hireDate": "2019-06-18",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "firstName": "James",
+      "lastName": "Anderson",
+      "email": "james.anderson@company.com",
+      "department": "HR",
+      "position": "HR Specialist",
+      "salary": 58000,
+      "hireDate": "2021-08-30",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "firstName": "Karen",
+      "lastName": "White",
+      "email": "karen.white@company.com",
+      "department": "HR",
+      "position": "HR Manager",
+      "salary": 85000,
+      "hireDate": "2019-12-02",
+      "isActive": true
+    },
+    {
+      "id": 11,
+      "firstName": "Alex",
+      "lastName": "Thompson",
+      "email": "alex.thompson@company.com",
+      "department": "Engineering",
+      "position": "Junior Developer",
+      "salary": 72000,
+      "hireDate": "2023-01-16",
+      "isActive": true
+    },
+    {
+      "id": 12,
+      "firstName": "Maria",
+      "lastName": "Rodriguez",
+      "email": "maria.rodriguez@company.com",
+      "department": "Finance",
+      "position": "Financial Analyst",
+      "salary": 68000,
+      "hireDate": "2021-11-08",
+      "isActive": true
+    },
+    {
+      "id": 13,
+      "firstName": "Thomas",
+      "lastName": "Clark",
+      "email": "thomas.clark@company.com",
+      "department": "Finance",
+      "position": "Finance Manager",
+      "salary": 98000,
+      "hireDate": "2018-04-25",
+      "isActive": true
+    },
+    {
+      "id": 14,
+      "firstName": "Amanda",
+      "lastName": "Taylor",
+      "email": "amanda.taylor@company.com",
+      "department": "Marketing",
+      "position": "Content Specialist",
+      "salary": 55000,
+      "hireDate": "2022-06-12",
+      "isActive": true
+    },
+    {
+      "id": 15,
+      "firstName": "Ryan",
+      "lastName": "Miller",
+      "email": "ryan.miller@company.com",
+      "department": "Engineering",
+      "position": "DevOps Engineer",
+      "salary": 88000,
+      "hireDate": "2020-10-19",
+      "isActive": true
+    },
+    {
+      "id": 16,
+      "firstName": "Jessica",
+      "lastName": "Moore",
+      "email": "jessica.moore@company.com",
+      "department": "Sales",
+      "position": "Account Executive",
+      "salary": 75000,
+      "hireDate": "2021-04-03",
+      "isActive": false
+    },
+    {
+      "id": 17,
+      "firstName": "Daniel",
+      "lastName": "Harris",
+      "email": "daniel.harris@company.com",
+      "department": "Finance",
+      "position": "Senior Accountant",
+      "salary": 73000,
+      "hireDate": "2019-08-14",
+      "isActive": true
+    },
+    {
+      "id": 18,
+      "firstName": "Nicole",
+      "lastName": "Jackson",
+      "email": "nicole.jackson@company.com",
+      "department": "HR",
+      "position": "Recruiter",
+      "salary": 62000,
+      "hireDate": "2022-09-05",
+      "isActive": true
+    },
+    {
+      "id": 19,
+      "firstName": "Kevin",
+      "lastName": "Wright",
+      "email": "kevin.wright@company.com",
+      "department": "Engineering",
+      "position": "QA Engineer",
+      "salary": 76000,
+      "hireDate": "2020-12-07",
+      "isActive": true
+    },
+    {
+      "id": 20,
+      "firstName": "Stephanie",
+      "lastName": "Lopez",
+      "email": "stephanie.lopez@company.com",
+      "department": "Marketing",
+      "position": "Digital Marketing Specialist",
+      "salary": 64000,
+      "hireDate": "2021-12-20",
+      "isActive": true
+    }
+];
